@@ -4,7 +4,7 @@ This page contains metadata definition of the data used for Crash Analysis Syste
 
 
 | Attribute Name        | Alias Name            |Description  |
-| ----------------------|:---------------------:| ------------:|
+| ----------------------|:---------------------:|:------------:|
 |animals1|Animals|Derived variable to indicate how many times an 'Animal(s)' was struck in the crash.areaUnitID|Area Unit ID|The unique identifier of an area unit.|
 |Bicycle|Bicycle|Derived variable to indicate how many bicycles were involved in the crash.|
 |Bridge|Bridge|Derived variable to indicate how many times a bridge, tunnel, the abutments, handrails were struck in the crash.|
