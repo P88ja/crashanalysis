@@ -7,7 +7,7 @@ This repository contains artifacts about the Crash Analysis System project built
 <br>
 
 ## Sample Data
-The sample data used in this report is available in this repository. [Report Data](./Artifacts/SampleData/Crash_Analysis_data.csv)
+The sample data used in this report is available in this repository. Due to the high volume of data and github limitation to upload, I removed some records from the file. [Report Data](./Artifacts/SampleData/Crash_Analysis_data.csv)
 
 <br>
 
